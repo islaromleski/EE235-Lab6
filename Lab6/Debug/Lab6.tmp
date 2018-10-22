@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATxmega128A1U"</DEVICE>
+ <WORKING_DIR>E:\Coding Projects\Assembly\Lab6\Lab6\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Coding Projects\Assembly\Lab6\Lab6\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\ATxmega128a1udef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\XMEGAA_DFP\1.1.68\avrasm\inc\atxmega128a1udef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Coding Projects\Assembly\Lab6\Lab6\Debug\Lab6.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab6.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab6.map</FILE>
+  <FILE>Lab6.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>E:\Coding Projects\Assembly\Lab6\Lab6\main.asm</FILE><LINE>36</LINE></start>
+  <tester><FILE>E:\Coding Projects\Assembly\Lab6\Lab6\main.asm</FILE><LINE>51</LINE></tester>
+  <done><FILE>E:\Coding Projects\Assembly\Lab6\Lab6\main.asm</FILE><LINE>47</LINE></done>
+  <div16U><FILE>E:\Coding Projects\Assembly\Lab6\Lab6\main.asm</FILE><LINE>84</LINE></div16U>
+  <rtrn0><FILE>E:\Coding Projects\Assembly\Lab6\Lab6\main.asm</FILE><LINE>78</LINE></rtrn0>
+  <rtrn1><FILE>E:\Coding Projects\Assembly\Lab6\Lab6\main.asm</FILE><LINE>75</LINE></rtrn1>
+  <return><FILE>E:\Coding Projects\Assembly\Lab6\Lab6\main.asm</FILE><LINE>80</LINE></return>
+  <divlp><FILE>E:\Coding Projects\Assembly\Lab6\Lab6\main.asm</FILE><LINE>89</LINE></divlp>
+  <negtve><FILE>E:\Coding Projects\Assembly\Lab6\Lab6\main.asm</FILE><LINE>102</LINE></negtve>
+  <incrmt><FILE>E:\Coding Projects\Assembly\Lab6\Lab6\main.asm</FILE><LINE>103</LINE></incrmt>
+ </LABELS>
+</ASSEMBLER_INFO>
